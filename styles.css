@@ -1,0 +1,12 @@
+body {
+	color:red;
+}
+
+.navbar {
+	padding 1rem;
+	background-color: blue;
+}
+
+.footer {
+	background-color: red;
+}
